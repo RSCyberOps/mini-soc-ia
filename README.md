@@ -1,4 +1,10 @@
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Security](https://img.shields.io/badge/Security-SOC-red?style=for-the-badge&logo=shield&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-success?style=for-the-badge)
+
 # Mini-SOC com Inteligência Artificial
+...# Mini-SOC com Inteligência Artificial
 
 ## 📌 Sobre o Projeto
 Este projeto simula a operação de um SOC (Security Operations Center) moderno, utilizando Inteligência Artificial para automatizar a análise de logs de segurança. O objetivo é reduzir o tempo de resposta a incidentes e a fadiga do analista, que não precisa ler milhares de linhas manualmente.
